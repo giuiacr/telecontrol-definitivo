@@ -6,5 +6,10 @@ Trata-se de um site fictício com finalidade de aprendizado, sendo um sistema de
 
 Para rodar esse arquivo, será necessário um banco de dados que deve ser chamado em um arquivo a ser incluído no lugar daquele que utilizei.
 
+```
+node app.js
+
+```
+
 >Utilização: biblioteca de php e html para estágio
   
